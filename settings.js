@@ -335,10 +335,10 @@ module.exports = {
         //tours: false,
 
         page: {
-            title: "blinky-DS18B20-p-trays"
+            title: "blinky-thermo-switch-p-trays"
         },
         header: {
-            title: "blinky-DS18B20-p-trays"
+            title: "blinky-thermo-switch-p-trays"
         },
 
         palette: {
